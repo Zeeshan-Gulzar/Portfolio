@@ -1,0 +1,124 @@
+Zeeshan Gulzar - Web Developer from New York
+
+
+
+#---------- HEADER ----------#
+
+Zeeshan Gulzar
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+
+
+
+#---------- HERO ----------#
+
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from New York
+
+Hello I'm
+
+Zeeshan Gulzar
+
+Web Developer from Rawalpindi
+
+Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+
+View Portfolio
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+
+CSS
+90%
+
+React
+70%
+
+MongoDB
+80%
+
+Express
+70%
+
+SQL
+80%
+
+JavaScript
+70%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+Rawalpindi, Pakistan
+
+<ion-icon name="mail"></ion-icon>
+Email
+zeeshan10a@gmail.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++92 3429294850
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2025 Zeeshan Gulzar. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
