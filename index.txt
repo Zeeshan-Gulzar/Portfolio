@@ -32,9 +32,6 @@ Zeeshan Gulzar
 
 Web Developer from Rawalpindi
 
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
-
-Get a Quote
 
 About Me
 
@@ -84,9 +81,6 @@ JavaScript
 
 #---------- CONTACT ----------#
 
-Don't be shy
-
-Drop Me a Line
 
 placeholder = Name
 
